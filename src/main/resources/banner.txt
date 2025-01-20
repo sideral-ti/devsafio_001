@@ -1,0 +1,11 @@
+     _______. __   _______   _______ .______          ___       __         .___________. __
+    /       ||  | |       \ |   ____||   _  \        /   \     |  |        |           ||  |
+   |   (----`|  | |  .--.  ||  |__   |  |_)  |      /  ^  \    |  |        `---|  |----`|  |
+    \   \    |  | |  |  |  ||   __|  |      /      /  /_\  \   |  |            |  |     |  |
+.----)   |   |  | |  '--'  ||  |____ |  |\  \----./  _____  \  |  `----.       |  |     |  |
+|_______/    |__| |_______/ |_______|| _| `._____/__/     \__\ |_______|       |__|     |__|
+
+Creado y desarrollado por ${application.developer}
+${application.title} ${application.version}
+${application.description}
+Powered by Spring Boot ${spring-boot.version}
